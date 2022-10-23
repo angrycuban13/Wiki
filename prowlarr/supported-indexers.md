@@ -2,17 +2,17 @@
 title: Prowlarr Supported Indexers
 description: Indexers currently named as supported in the current nightly build of Prowlarr. Other indexers may be available via either Generic Newznab or Generic Torznab.
 published: true
-date: 2022-10-23T18:38:27.7466978Z
+date: 2022-10-23T18:44:22.561Z
 tags: prowlarr, indexers
 editor: markdown
-dateCreated: 2022-10-23T18:38:27.7466978Z
+dateCreated: 2021-09-06T17:37:40.680Z
 ---
 
 - Supported Trackers and Indexers as of Build `0.4.7.2016` / [Commit: 4be41ff3fbde6b76b8517905e82067fac463dd99](https://github.com/Prowlarr/Prowlarr/commit/4be41ff3fbde6b76b8517905e82067fac463dd99)
 
 ---
 
-- Current Master Version | ![Current Master/Stable](https://img.shields.io/badge/dynamic/json?color=f5f5f5&style=flat-square&label=Master&query=%24%5B0%5D.version&url=https://prowlarr.servarr.com/v1/update/master/changes
+- Current Master Version | ![Current Master/Stable](https://img.shields.io/badge/dynamic/json?color=f5f5f5&style=flat-square&label=Master&query=%24%5B0%5D.version&url=https://prowlarr.servarr.com/v1/update/master/changes)
 - Current Develop Version | ![Current Develop/Beta](https://img.shields.io/badge/dynamic/json?color=f5f5f5&style=flat-square&label=Develop&query=%24%5B0%5D.version&url=https://prowlarr.servarr.com/v1/update/develop/changes)
 - Current Nightly Version | ![Current Nightly/Unstable](https://img.shields.io/badge/dynamic/json?color=f5f5f5&style=flat-square&label=Nightly&query=%24%5B0%5D.version&url=https://prowlarr.servarr.com/v1/update/nightly/changes)
 
