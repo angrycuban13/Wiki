@@ -2,7 +2,7 @@
 title: Radarr Supported
 description: 
 published: true
-date: 2022-09-08T20:28:40.992Z
+date: 2022-10-24T15:38:01.412Z
 tags: 
 editor: markdown
 dateCreated: 2021-06-23T07:55:24.002Z
@@ -176,6 +176,7 @@ This page is the disambiguation page for all `supported` wiki links (i.e. typica
 - TMDb Collection {#tmdbcollectionimport}
   - Collection Lists are no longer supported in Radarr v4.2 and have been migrated to collections within Radarr. See the [Collections](/radarr/library#collections) section for more details.
 - TMDb Company {#tmdbcompanyimport}
+  - If the TMDb Company url is `https://www.themoviedb.org/company/4056/movie` then the Company ID is `4056`
 - TMDb Keyword {#tmdbkeywordimport}
 - TMDb List {#tmdblistimport}
 - TMDb Person {#tmdbpersonimport}
